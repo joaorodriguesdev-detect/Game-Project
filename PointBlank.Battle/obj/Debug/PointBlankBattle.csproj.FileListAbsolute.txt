@@ -1,0 +1,10 @@
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankBattle.exe.config
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankBattle.exe
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankBattle.pdb
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Battle\obj\Debug\PointBlankBattle.csproj.AssemblyReference.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Battle\obj\Debug\PointBlankBattle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Battle\obj\Debug\PointBlankBattle.exe.config
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Battle\obj\Debug\PointBlankBattle.csproj.CoreCompileInputs.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Battle\obj\Debug\PointBla.AF302DA8.Up2Date
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Battle\obj\Debug\PointBlankBattle.exe
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Battle\obj\Debug\PointBlankBattle.pdb

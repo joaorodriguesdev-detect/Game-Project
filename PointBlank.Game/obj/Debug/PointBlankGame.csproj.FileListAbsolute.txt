@@ -1,0 +1,12 @@
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankGame.exe.config
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankGame.exe
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankGame.pdb
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.csproj.AssemblyReference.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.exe.config
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.Properties.Resources.resources
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.csproj.GenerateResource.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.csproj.CoreCompileInputs.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBla.649685F2.Up2Date
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.exe
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Game\obj\Debug\PointBlankGame.pdb

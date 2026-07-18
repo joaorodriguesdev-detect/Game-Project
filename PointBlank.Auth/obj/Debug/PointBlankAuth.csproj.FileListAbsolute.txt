@@ -1,0 +1,10 @@
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankAuth.exe.config
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankAuth.exe
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankAuth.pdb
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Auth\obj\Debug\PointBlankAuth.csproj.AssemblyReference.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Auth\obj\Debug\PointBlankAuth.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Auth\obj\Debug\PointBlankAuth.exe.config
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Auth\obj\Debug\PointBlankAuth.csproj.CoreCompileInputs.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Auth\obj\Debug\PointBla.6E794695.Up2Date
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Auth\obj\Debug\PointBlankAuth.exe
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Auth\obj\Debug\PointBlankAuth.pdb

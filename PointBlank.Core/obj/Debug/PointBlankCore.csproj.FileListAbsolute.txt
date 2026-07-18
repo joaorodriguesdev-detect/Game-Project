@@ -1,0 +1,7 @@
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankCore.dll
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\build\dbg\PointBlankCore.pdb
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Core\obj\Debug\PointBlankCore.csproj.AssemblyReference.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Core\obj\Debug\PointBlankCore.csproj.CoreCompileInputs.cache
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Core\obj\Debug\PointBla.BFCDAEEC.Up2Date
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Core\obj\Debug\PointBlankCore.dll
+C:\Users\Joao Rodrigues\Source\Repos\PointBlankServer\PointBlank.Core\obj\Debug\PointBlankCore.pdb
